@@ -33,7 +33,7 @@ SAMTOOLS=$(which samtools)
 #BASEDIR=$(pwd -P)
 BASEDIR=$(pwd -P)/salmon
 echo $BASEDIR
-FASTQLOC="/mnt/d/RNAseq_oct24/samples/samples2"
+FASTQLOC="/mnt/d/RNAseq_oct24/samples"
 #FASTQLOC="/mnt/g/epa/samples_sav3/X204SC20112957-Z01-F003_1/X204SC20112957-Z01-F003_1/rawdata"
 #FASTQLOC="/mnt/d/rnaseq/adipose/samples"
 echo $FASTQLOC
